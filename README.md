@@ -47,6 +47,6 @@ Where speed of sound = 0.0343 cm/µs
 
 ---
 
-##🔌 Circuit Diagram
+## 🔌 Circuit Diagram
 
 <img width="949" height="491" alt="image" src="https://github.com/user-attachments/assets/893c9183-fb97-4982-bea1-76b9f75850a0" />
